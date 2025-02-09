@@ -1,4 +1,4 @@
-# CV Workshop
+# Object Detection and Tracing trajectory
 
 ### Verify python version
 ```
