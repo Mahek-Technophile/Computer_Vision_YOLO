@@ -21,6 +21,5 @@ pip install ultralytics
 ### Colour picker 
 - [here](https://colorpicker.me/#b0b0b2)
 
-## MIT TECH TEAM WEBSITE    
-- [here](https://www.robocon.in/)
+
 
